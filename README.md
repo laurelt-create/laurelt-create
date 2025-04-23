@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! I'm a college student at Northeastern looking to improve my coding skills. 
 
 <!--
 **laurelt-create/laurelt-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
